@@ -1,5 +1,6 @@
 {
   "name": "portfolio",
+  "description": "My personal website. Mainly to represent my skills and find some info about me",
   "version": "1.0.0",
   "private": true,
   "scripts": {
@@ -24,6 +25,7 @@
   "dependencies": {
     "@nuxt/content": "^1.5.0",
     "@nuxt/typescript-runtime": "^1.0.0",
+    "@vue/composition-api": "^1.0.0-beta.10",
     "ant-design-vue": "^1.6.4",
     "nuxt": "^2.14.0"
   },
